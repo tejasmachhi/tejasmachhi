@@ -41,8 +41,8 @@ I'm a self-taught **Frontend Web Developer** passionate about creating engaging,
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejas-machhi-470388187/)
 - 🌐 [Portfolio](https://tejasmachhi.github.io/tejas-portfolio-2025/)
-- 📸 [Instagram](https://instagram.com/your-link)
+- 📸 [Instagram](https://www.instagram.com/tejas_2710_/)
 
 ---
 
-<p align="center">© 2024 Tejas Machhi — All rights reserved.</p>
+<p align="center">© 2025 Tejas Machhi — All rights reserved.</p>

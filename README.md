@@ -1,67 +1,56 @@
-# 👋 Hi, I'm Tejas Machhi
+<h1 align="center">👋 Hi, I'm Tejas Machhi</h1>
+<h3 align="center">Front-End Developer | React Enthusiast | UI Designer</h3>
 
-### 🚀 Front-End Web Developer | Passionate About Building Modern, Responsive Websites
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejas-machhi-470388187/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tejasmachhi.github.io/tejas-portfolio-2025/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm **Tejas Machhi**, a self-taught Front-End Web Developer with a strong passion for crafting beautiful, responsive, and user-friendly websites.
+I'm a self-taught **Frontend Web Developer** passionate about creating engaging, responsive, and accessible web interfaces.
 
-💡 I love solving design and code challenges with creative, innovative solutions.  
-📈 I stay up-to-date with the latest web technologies and trends.  
-🎯 My goal is to grow as a developer and contribute to meaningful web projects.  
-🌱 Currently exploring advanced animations, React.js, and prompt engineering.  
-📚 Continuously learning and improving my skills in responsive web design and modern development tools, growing as a web developer every day.
-
----
-
-## 🔧 Skills & Technologies
-
-### 💻 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🧩 Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-
-### 🗂️ Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🖥️ Web Design & Workflow
-- Responsive Web Design  
-- PSD to HTML  
-- Figma to HTML  
-
-### 🧠 Other Skills
-- Prompt Engineering  
-- UI/UX Basics
+- 🔥 Skilled in HTML5, CSS3, JavaScript, and modern frameworks
+- 🎯 Currently diving deep into **React.js**, **animations**, and **prompt engineering**
+- 🧠 Learning every day — building real-world projects and exploring advanced UI/UX
+- 🌐 Visit my portfolio: [tejasmachhi.github.io](https://tejasmachhi.github.io/tejas-portfolio-2025/)
 
 ---
 
-## 📬 Let's Connect
+## 🚀 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-machhi-470388187/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://tejasmachhi.github.io/tejas-portfolio-2025/)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60"/>
+</p>
 
 ---
 
-## ⚡ Quick Links
+## 📈 GitHub Stats
 
-- 🔗 [About Me](#about-me)
-- ✉️ [Contact](#lets-connect)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejasmachhi&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmachhi&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
-<p align="center">© 2024 Tejas Machhi. All Rights Reserved.</p>
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tejas-machhi-470388187/)
+- 🌐 [Portfolio](https://tejasmachhi.github.io/tejas-portfolio-2025/)
+- 📸 [Instagram](https://instagram.com/your-link)
+
+---
+
+<p align="center">© 2024 Tejas Machhi — All rights reserved.</p>

@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Tejas Machhi</h1>
-<h3 align="center">Front-End Developer | React Enthusiast | UI Designer</h3>
+<h3 align="center">Front-End Developer | UI/UX Designer & Web Enthusiast</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tejas-machhi-470388187/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -12,9 +13,9 @@
 
 I'm a self-taught **Frontend Web Developer** passionate about creating engaging, responsive, and accessible web interfaces.
 
-- 🔥 Skilled in HTML5, CSS3, JavaScript, and modern frameworks
-- 🎯 Currently diving deep into **React.js**, **animations**, and **prompt engineering**
-- 🧠 Learning every day — building real-world projects and exploring advanced UI/UX
+- 🔥 Skilled in HTML5, CSS3, JavaScript, and modern frameworks  
+- 🎯 Currently diving deep into **React.js** and **prompt engineering**  
+- 🧠 Learning every day — building real-world projects and exploring advanced UI/UX  
 - 🌐 Visit my portfolio: [tejasmachhi.github.io](https://tejasmachhi.github.io/tejas-portfolio-2025/)
 
 ---
@@ -32,15 +33,6 @@ I'm a self-taught **Frontend Web Developer** passionate about creating engaging,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasmachhi&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmachhi&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---

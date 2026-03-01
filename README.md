@@ -47,4 +47,4 @@ I'm a self-taught **Frontend Web Developer** passionate about creating engaging,
 
 ---
 
-<p align="center">© 2025 Tejas Machhi — All rights reserved.</p>
+<p align="center">© 2026 Tejas Machhi — All rights reserved.</p>
